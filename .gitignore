@@ -1,0 +1,23 @@
+# ---- 操作系统 ----
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# ---- 编辑器 / IDE ----
+.vs/
+.vscode/
+.idea/
+*.swp
+*~
+
+# ---- 编译产物 ----
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.lib
+build/
+dist/
